@@ -16,7 +16,7 @@
     
     NOT: UNION operatoru SADECE benzersiz degerleri alir. Benzerli verileri almak
     için UNION ALL kullanilir.
-==============================================================================*/ 
+============================================================================*/ 
 CREATE TABLE personel 
     (
         id int  PRIMARY KEY, 
