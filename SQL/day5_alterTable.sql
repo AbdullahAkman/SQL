@@ -1,5 +1,5 @@
 use sys;
-/*=============================== ALTER TABLE ==================================
+/*=============================== ALTER TABLE =================================
     
     ALTER TABLE  tabloda ADD, MODIFY, veya DROP/DELETE COLUMNS islemleri icin 
     kullanilir.
